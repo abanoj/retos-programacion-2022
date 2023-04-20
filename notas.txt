@@ -1,0 +1,2 @@
+//Llenar un Array desde 1 hasta num;
+let nums = Array.from({ length: num }, (_, i) => (i += 1));
